@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : KobbyVan_Dyck
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Papa Kobina (Kobby) Van Dyck"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Biophysics PhD Student | University of Notre Dame| Harper Cancer Research Institute | White lab | Research: Intracellular pH dynamics, Protein Structure and Dynamics"
   location         : "Notre Dame, IN"
   employer         : "University of Notre Dame"
   googlescholar    : "https://scholar.google.com/citations?user=UFtPwNcAAAAJ&hl=en&authuser=1"
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "kobbyvandyck"
+  github           : # "kobbyvandyck"
   google_plus      :
   keybase          :
   instagram        :
