@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 --
 
-<embed src= "kobbyvandyck.github.io/files/Van_Dyck_cv_Jul2021 (2).pdf">
+<embed src= "Van_Dyck_cv_Jul2021.pdf">
