@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src=kobbyvandyck.github.io/files/
+<embed src= "kobbyvandyck.github.io/files/Van_Dyck_cv_Jul2021 (2).pdf">
