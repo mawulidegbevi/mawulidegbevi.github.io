@@ -8,5 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-
+Van_Dyck_cv_Jul2021 (2).pdf
