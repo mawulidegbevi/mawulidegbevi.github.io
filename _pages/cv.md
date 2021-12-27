@@ -3,6 +3,10 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from: Van_Dyck_cv_Jul2021 (2).pdf
-  -
+redirect_from:
+  - /resume
 ---
+
+{% include base_path %}
+
+<embed src=kobbyvandyck.github.io/files/
