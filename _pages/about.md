@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+I am pursuing a Ph.D. in the University of Notre Dame Chemistry Department in [Professor Emily Tsui's Lab](https://tsuilab.nd.edu/research/). My research focuses on modulating colloidal semiconductor quantum dot surface ligand dissociation equilibria and reduction potentials for photocatalytic applications. My works have been published in several scientific journals, including the [Journal of American Chemical Society](https://pubs.acs.org/doi/abs/10.1021/jacs.5c05413), [Inorganic Chemistry](https://pubs.acs.org/doi/abs/10.1021/acs.inorgchem.4c03534), [Chemical Science](https://pubs.rsc.org/en/content/articlehtml/2023/sc/d3sc04724e), and [Scientific African](https://www.sciencedirect.com/science/article/pii/S2468227621001502).
 
+Before Notre Dame, I received my Bachelors degree at [Kwame Nkrumah University of Science and Technology](https://www.knust.edu.gh/), where I worked with [Professor Nathaniel O. Boadi](https://webapps.knust.edu.gh/staff/dirsearch/profile/summary/2aea1b1b19bd.html) on the synthesis and characterization of NiS thin films and evaluating their optoelectronic properties.
 
-Before Notre Dame, I received my bachelors in [Cell and Molecular Biology from the DePauw University](https://www.depauw.edu/academics/departments-programs/biology/), where I worked with [Dr. Pascal Lafontant](https://sites.google.com/depauw.edu/lafontantlab/home) on comparative cardiac regeneration(2018-2020). I also studied how the cellular environment played a role in regulating protein stability and dynamics(2018-2020) in Dr. Emily Guinn’s lab. During the summer of 2018, I participated in an [Undergraduate Research Internship](https://neurodata.io/about/alum.html) at [John’s Hopkins University](https://neurodata.io), where I worked with [Dr. Joshua Vogelstein](https://neurodata.io/about/jovo/)(2018). In the Neurodata Lab, I visualized and analyzed neuroimaging datasets including EEG and fMRI. 
-
-Outside research, I enjoy making art, cooking, reading African Literature, and playing board & video games.
+Outside academia, I have a wide range of interests and hobbies. I enjoy engaging in sporting activities (soccer, volleyball, pickleball, and table tennis), sightseeing, trying new restaurants, and playing board & video games. 
 
