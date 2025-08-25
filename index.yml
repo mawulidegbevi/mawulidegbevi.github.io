@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Mawuli Degbevi"
-  avatar           : "IMG_4784-2.jpg"
-  bio              : "Biophysics PhD Student | University of Notre Dame| Harper Cancer Research Institute | White lab | Research: Intracellular pH dynamics, Protein Structure and Dynamics"
+  avatar           : "mdeg.jpeg"
+  bio              : "Chemistry PhD Candidate | University of Notre Dame| Stepan Hall | Tsui lab | Research: Surface Chemistry of Colloidal Semiconductor Quantum Dots"
   location         : "Notre Dame, IN"
   employer         : "University of Notre Dame"
-  googlescholar    : "https://scholar.google.com/citations?user=UFtPwNcAAAAJ&hl=en&authuser=1"
+  googlescholar    : "https://scholar.google.com/citations?user=Z97E-80AAAAJ&hl=en&oi=ao"
   email            :
   researchgate     : 
   uri              :
@@ -95,20 +95,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "kobbyvandyck"
+  github           : # "mawulidegbevi"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-2998-9508"
+  orcid            : "https://orcid.org/0009-0003-8077-2448"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "kobbyvan_dyck"
+  twitter          : #"kobbyvan_dyck"
   vine             :
   weibo            :
   xing             :
